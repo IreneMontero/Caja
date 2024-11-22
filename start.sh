@@ -75,6 +75,7 @@ RUN apt-get update && apt-get install -y \
     vim \
     nano \
     htop \
+    curl \
     git \
     novnc \
     websockify \
